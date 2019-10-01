@@ -4,3 +4,5 @@ This repository consists of codes to be done in OOPS Lab, MIT Manipal, India.
 |Week No:|Topic|
 |--------|-----|
 |[Week 1](Week1) | Simple Java Programs using Control Structures |
+|[Week 3](Week3) | Classes and Objects |
+|[Week 4](Week4)| Constructors and Static Members |
