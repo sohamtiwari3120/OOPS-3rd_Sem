@@ -7,3 +7,7 @@ This repository consists of codes to be done in OOPS Lab, MIT Manipal, India.
 |[Week 2](Week2)  | 1D and 2D Arrays |
 |[Week 3](Week3) | Classes and Objects |
 |[Week 4](Week4)| Constructors and Static Members |
+|Week 5| Strings |
+|Week 6| Inheritance and Packages |
+|Week 7| Interfaces and Exception Handling |
+|Week 8| Multithreading |
