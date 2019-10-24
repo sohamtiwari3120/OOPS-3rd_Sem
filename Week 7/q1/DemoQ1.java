@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Phone{
 	String brand;
-	int memCapacity;
+	int memCapacity;111
 
 	Phone(String brand, int memCapacity){
 		this.brand = brand;
